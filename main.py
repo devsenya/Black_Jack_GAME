@@ -1,6 +1,8 @@
 import random
 import sys
 
+print("Давай сыграем в Black Jack")
+
 koloda = {
     "T♠": 11,
     "T♥": 11,
